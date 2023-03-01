@@ -29,7 +29,7 @@ def GetCoefficients(x,X,p):
         Coefficients.append(C)
     return Coefficients
 
-print(GetCoefficients(x,X,2)
+print(GetCoefficients(x,X,2))
 
 """
 Primero, hay que tener en cuenta que la discretización
